@@ -4,10 +4,11 @@ Engenheiro de Software com ampla experiência em sistemas críticos nos setores 
 
 ## 🏢 Atuação Profissional
 
-- **Qintess (Cliente CSN)** – Engenheiro de Software .NET (2025)  
-- **Vericode (Cliente B3)** – Engenheiro de Software .NET (2024-2025)  
-- **Mazzatech (Cliente GOL)** – Engenheiro de Software .NET (2023-2024)  
-- **Thomas Greg & Sons do Brasil** – Analista de Sistemas .NET (2020-2023)  
+- **3CON (Cliente Catepiller)** – Engenheiro de Software .NET
+- **Qintess (Cliente CSN)** – Engenheiro de Software .NET
+- **Vericode (Cliente B3)** – Engenheiro de Software .NET  
+- **Mazzatech (Cliente GOL)** – Engenheiro de Software .NET  
+- **Thomas Greg & Sons do Brasil** – Analista de Sistemas .NET  
 - Experiência anterior em grandes empresas como Itaú Unibanco, Amil, Liberty Seguros e Volkswagen Financial Services.
 
 ## 📱 Especialidades
