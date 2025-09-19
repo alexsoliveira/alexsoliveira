@@ -1,18 +1,28 @@
 # Olá! Eu sou o Alex Oliveira (https://github.com/alexsoliveira) 👋
 
-TODO: Resuma brevemente seu perfil.
+Engenheiro de Software com ampla experiência em sistemas críticos nos setores financeiro, aviação e indústria. Especialista na plataforma .NET (Framework e Core) com foco em C#, Web API, SQL Server, Oracle e Angular. Atualmente explorando **IA Generativa** para acelerar estudos e criar soluções inovadoras.
 
 ## 🏢 Atuação Profissional
 
-- TODO: Liste suas experiências profissionais
+- **Qintess (Cliente CSN)** – Engenheiro de Software .NET (2025)  
+- **Vericode (Cliente B3)** – Engenheiro de Software .NET (2024-2025)  
+- **Mazzatech (Cliente GOL)** – Engenheiro de Software .NET (2023-2024)  
+- **Thomas Greg & Sons do Brasil** – Analista de Sistemas .NET (2020-2023)  
+- Experiência anterior em grandes empresas como Itaú Unibanco, Amil, Liberty Seguros e Volkswagen Financial Services.
 
 ## 📱 Especialidades
 
-- TODO: Liste suas Habilidades Técnicas.
+- Desenvolvimento Back-End em **C# / .NET Framework / .NET Core / Web API**  
+- Front-End com **Angular, HTML5, CSS3, JavaScript**  
+- Bancos de dados **SQL Server e Oracle**  
+- Integração Contínua e Automação (**GitHub Actions / Azure DevOps**)  
+- Arquitetura de sistemas, segurança e escalabilidade  
+- Fundamentos de **IA Generativa** e **Prompt Engineering**
 
 ## 🚀 O que me motiva
 
-TODO: Descreva o que está buscando ou estudando atualmente.
+Atuar em projetos que unam inovação, segurança e alto impacto no negócio.  
+Atualmente estudando **IA Generativa** e novas arquiteturas para acelerar a criação de soluções escaláveis, seguras e orientadas a resultados.
 
 ## 📌 Projetos em Destaque
 
@@ -25,3 +35,4 @@ TODO: Descreva o que está buscando ou estudando atualmente.
 ## 🧠 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexsoliveira&layout=compact&theme=dark)
+
