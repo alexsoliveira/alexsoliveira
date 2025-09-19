@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou o Alex Oliveira (https://github.com/alexsoliveira) 👋
 
-<!--
-**alexsoliveira/alexsoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TODO: Resuma brevemente seu perfil.
 
-Here are some ideas to get you started:
+## 🏢 Atuação Profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TODO: Liste suas experiências profissionais
+
+## 📱 Especialidades
+
+- TODO: Liste suas Habilidades Técnicas.
+
+## 🚀 O que me motiva
+
+TODO: Descreva o que está buscando ou estudando atualmente.
+
+## 📌 Projetos em Destaque
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsoliveira&repo=mba-ia-desafio-ingestao-busca&theme=dark)](https://github.com/alexsoliveira/mba-ia-desafio-ingestao-busca)
+
+## 📊 GitHub Stats
+
+![alexsoliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsoliveira&show_icons=true&theme=dark)
+
+## 🧠 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsoliveira&layout=compact&theme=dark)
