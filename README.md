@@ -4,8 +4,8 @@ Engenheiro de Software com ampla experiência em sistemas críticos nos setores 
 
 ## 🏢 Atuação Profissional
 
-- **3CON (Cliente Catepiller)** – Engenheiro de Software .NET
-- **Qintess (Cliente CSN)** – Engenheiro de Software .NET
+- **3CON (Cliente Catepiller)** – Arquiteto/Engenheiro de Software .NET com IA
+- **Qintess (Cliente CSN)** – Engenheiro de Software .NET com IA
 - **Vericode (Cliente B3)** – Engenheiro de Software .NET  
 - **Mazzatech (Cliente GOL)** – Engenheiro de Software .NET  
 - **Thomas Greg & Sons do Brasil** – Analista de Sistemas .NET  
