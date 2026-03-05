@@ -27,13 +27,13 @@ Atualmente estudando **IA Generativa** e novas arquiteturas para acelerar a cria
 
 ## 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsoliveira&repo=mba-ia-desafio-ingestao-busca&theme=dark)](https://github.com/alexsoliveira/mba-ia-desafio-ingestao-busca)
+(https://github.com/alexsoliveira/mba-ia-desafio-ingestao-busca)
 
 ## 📊 GitHub Stats
 
-![alexsoliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsoliveira&show_icons=true&theme=dark)
+(https://github-readme-stats.vercel.app/api?username=alexsoliveira&show_icons=true&theme=dark)
 
 ## 🧠 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexsoliveira&layout=compact&theme=dark)
+(https://github-readme-stats.vercel.app/api/top-langs?username=alexsoliveira&layout=compact&theme=dark)
 
