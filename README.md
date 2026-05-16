@@ -48,7 +48,7 @@ Atualmente estudando **IA Generativa** e novas arquiteturas para acelerar a cria
 
 ## 📌 Projetos em Destaque
 
-### 🔹 MBA IA — Pipeline de Ingestão e Busca
+### 🔹 MBA IA — Sistema RAG com PostgreSQL e LangChain
 
 Sistema de ingestão de documentos utilizando IA para indexação e recuperação inteligente.
 
