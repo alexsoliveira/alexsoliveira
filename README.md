@@ -58,6 +58,36 @@ Sistema de ingestão de documentos utilizando IA para indexação e recuperaçã
 
 ---
 
+### 🔹 CodeFlix Admin Catalog Backend
+
+Backend administrativo inspirado em arquitetura de streaming platforms, com foco em APIs REST, gerenciamento de catálogo e boas práticas backend.
+
+**Stack:** Python, Django, Docker, Clean Architecture
+
+🔗 https://github.com/alexsoliveira/DesafioCodeflix_FC3_Python_Admin_Catalog_Backend
+
+---
+
+### 🔹 IA Refactor Projects Skill
+
+Skill baseada em IA para análise arquitetural, identificação de code smells e refatoração automatizada de projetos para padrão MVC.
+
+**Stack:** Python, Prompt Engineering, IA Generativa, Arquitetura MVC
+
+🔗 https://github.com/alexsoliveira/mba-ia-refactor-projects-skill
+
+---
+
+### 🔹 Pull Evaluation Prompt
+
+Pipeline de Pull, otimização e avaliação automatizada de prompts utilizando LangChain e LangSmith.
+
+**Stack:** LangChain, LangSmith, Python, Prompt Engineering, LLMOps
+
+🔗 https://github.com/alexsoliveira/mba-ia-pull-evaluation-prompt
+
+---
+
 ## 📊 GitHub Analytics
 
 ![](./profile-summary-card-output/tokyonight/0-profile-details.svg)
