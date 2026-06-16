@@ -90,13 +90,13 @@ Pipeline de Pull, otimização e avaliação automatizada de prompts utilizando 
 
 ## 📊 GitHub Analytics
 
-![](./profile-summary-card-output/vision_friendly_dark/0-profile-details.svg)
+![](./profile-summary-card-output/tokyonight/0-profile-details.svg)
 
-![](./profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg)
+![](./profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 
-![](./profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg)
+![](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 
-![](./profile-summary-card-output/vision_friendly_dark/3-stats.svg)
+![](./profile-summary-card-output/tokyonight/3-stats.svg)
 
 ---
 
