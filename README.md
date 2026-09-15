@@ -48,6 +48,16 @@ Atualmente estudando **IA Generativa** e novas arquiteturas para acelerar a cria
 
 ## 📌 Projetos em Destaque
 
+### 🔹 MBA IA — StreamTube
+
+Plataforma de compartilhamento de vídeos desenvolvida do zero com apoio de IA, utilizando arquitetura monorepo e serviços containerizados.
+
+**Stack:** Next.js, NestJS, PostgreSQL, Docker
+
+🔗 https://github.com/alexsoliveira/mba-ia-greenfield-project
+
+---
+
 ### 🔹 MBA IA — Sistema RAG com PostgreSQL e LangChain
 
 Sistema de ingestão de documentos utilizando IA para indexação e recuperação inteligente.
@@ -68,7 +78,7 @@ Backend administrativo inspirado em arquitetura de streaming platforms, com foco
 
 ---
 
-### 🔹 IA Refactor Projects Skill
+### 🔹 MBA IA — Refactor Projects Skill
 
 Skill baseada em IA para análise arquitetural, identificação de code smells e refatoração automatizada de projetos para padrão MVC.
 
@@ -78,7 +88,7 @@ Skill baseada em IA para análise arquitetural, identificação de code smells e
 
 ---
 
-### 🔹 Pull Evaluation Prompt
+### 🔹 MBA IA — Pull Evaluation Prompt
 
 Pipeline de Pull, otimização e avaliação automatizada de prompts utilizando LangChain e LangSmith.
 
