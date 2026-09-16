@@ -48,6 +48,16 @@ Atualmente estudando **IA Generativa** e novas arquiteturas para acelerar a cria
 
 ## 📌 Projetos em Destaque
 
+### 🔹 MBA IA — Sistema de Webhooks de Notificação de Pedidos
+
+Documentação técnica e arquitetural para um sistema de webhooks de notificação de pedidos, produzida com apoio de IA e com rastreabilidade entre requisitos, decisões e design da solução.
+
+**Stack:** TypeScript, NestJS, Prisma, PostgreSQL
+
+🔗 https://github.com/alexsoliveira/mba-ia-desafio-design-docs-com-ia
+
+---
+
 ### 🔹 MBA IA — StreamTube
 
 Plataforma de compartilhamento de vídeos desenvolvida do zero com apoio de IA, utilizando arquitetura monorepo e serviços containerizados.
